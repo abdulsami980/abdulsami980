@@ -1,4 +1,4 @@
-- 👋 Hi, Thid is Abdul Sami
+- 👋 Hi, This is Abdul Sami
 - 🤖 I’m an AI enthusiast
 - 💻 I’m currently working as an AI System Analyst
 - 📖 I’m looking to learn new concepts related to AI
